@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "1",
+    "Poroda": "A",
+    "FavFood": "M A"
+  },
+  {
+    "Name": "2",
+    "Poroda": "B",
+    "FavFood": "M B"
+  },
+  {
+    "Name": "3",
+    "Poroda": "C",
+    "FavFood": "M C"
+  },
+  {
+    "Name": "4",
+    "Poroda": "D",
+    "FavFood": "M D"
+  },
+  {
+    "Name": "5",
+    "Poroda": "A",
+    "FavFood": "M D"
+  }
+]
